@@ -1,1 +1,1 @@
-# to-do-List
+The To-Do List App is a straightforward task management tool built with HTML, CSS, and JavaScript. It allows users to easily create, manage, and keep track of their tasks, making it an essential productivity tool for anyone looking to stay organized.
